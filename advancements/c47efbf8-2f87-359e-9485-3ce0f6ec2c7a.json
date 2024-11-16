@@ -380,19 +380,11 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "lava_bucket": "2024-11-15 21:47:30 +0000"
+      "obsidian": "2024-11-15 19:53:14 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2024-11-15 19:54:52 +0000",
-      "minecraft:nether_wastes": "2024-11-15 19:56:06 +0000",
-      "minecraft:soul_sand_valley": "2024-11-15 19:54:51 +0000"
-    },
-    "done": false
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -406,21 +398,29 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "nourished_nether:nourished_nether_root": {
     "criteria": {
-      "obsidian": "2024-11-15 19:53:14 +0000"
+      "nourished_nether_root": "2024-11-15 19:53:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-15 19:54:52 +0000",
+      "minecraft:nether_wastes": "2024-11-15 19:56:06 +0000",
+      "minecraft:soul_sand_valley": "2024-11-15 19:54:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-11-15 21:47:30 +0000"
     },
     "done": true
   },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-15 22:51:20 +0000"
-    },
-    "done": true
-  },
-  "nourished_nether:nourished_nether_root": {
-    "criteria": {
-      "nourished_nether_root": "2024-11-15 19:53:45 +0000"
     },
     "done": true
   },
