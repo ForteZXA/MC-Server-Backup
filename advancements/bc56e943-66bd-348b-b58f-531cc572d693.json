@@ -267,13 +267,17 @@
     "criteria": {
       "minecraft:birch_forest": "2024-11-15 23:21:34 +0000",
       "minecraft:bamboo_jungle": "2024-11-15 19:56:47 +0000",
+      "minecraft:dark_forest": "2024-11-16 15:21:29 +0000",
       "minecraft:sparse_jungle": "2024-11-15 19:57:17 +0000",
       "minecraft:river": "2024-11-15 19:42:07 +0000",
       "minecraft:forest": "2024-11-15 23:21:43 +0000",
+      "minecraft:lush_caves": "2024-11-16 15:46:23 +0000",
       "minecraft:jungle": "2024-11-15 17:28:55 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-15 23:21:26 +0000",
+      "minecraft:meadow": "2024-11-16 19:14:25 +0000",
       "minecraft:savanna": "2024-11-15 23:11:20 +0000",
-      "minecraft:plains": "2024-11-15 23:20:25 +0000"
+      "minecraft:plains": "2024-11-15 23:20:25 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2024-11-16 15:10:55 +0000"
     },
     "done": false
   },
@@ -298,12 +302,15 @@
       "clover_patch": "2024-11-15 23:25:09 +0000",
       "old_growth_woodland": "2024-11-15 19:42:47 +0000",
       "crystalline_chasm": "2024-11-15 19:55:13 +0000",
+      "orchard": "2024-11-16 15:12:45 +0000",
       "lavender_forest": "2024-11-15 23:23:37 +0000",
       "mediterranean_forest": "2024-11-15 23:10:29 +0000",
       "spider_nest": "2024-11-15 23:26:18 +0000",
+      "redwood_forest": "2024-11-16 15:10:32 +0000",
       "volcano": "2024-11-15 17:38:14 +0000",
       "rocky_rainforest": "2024-11-15 23:21:00 +0000",
       "volcanic_plains": "2024-11-15 17:38:24 +0000",
+      "lavender_field": "2024-11-16 15:10:44 +0000",
       "grassland": "2024-11-15 23:21:41 +0000",
       "glowing_grotto": "2024-11-16 00:17:09 +0000",
       "rainforest": "2024-11-15 19:42:05 +0000"
@@ -338,46 +345,20 @@
     "criteria": {
       "minecraft:skeleton": "2024-11-15 23:28:20 +0000",
       "upgrade_aquatic:great_thrasher": "2024-11-15 22:47:53 +0000",
+      "minecraft:spider": "2024-11-16 15:49:10 +0000",
+      "sullysmod:bouldering_zombie": "2024-11-16 15:57:42 +0000",
       "quark:forgotten": "2024-11-15 23:31:18 +0000",
       "minecraft:cave_spider": "2024-11-16 00:15:48 +0000",
       "minecraft:piglin": "2024-11-15 19:55:18 +0000",
-      "minecraft:enderman": "2024-11-15 23:28:53 +0000"
+      "minecraft:enderman": "2024-11-15 23:28:53 +0000",
+      "minecraft:silverfish": "2024-11-16 19:36:21 +0000",
+      "minecraft:zombie": "2024-11-16 15:26:49 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:piglin": "2024-11-15 19:55:18 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll": {
-    "criteria": {
-      "find": "2024-11-15 23:29:50 +0000"
-    },
-    "done": true
-  },
-  "mekanismadditions:not_the_babies": {
-    "criteria": {
-      "baby_skeleton": "2024-11-16 00:07:42 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/root": {
-    "criteria": {
-      "spelunking": "2024-11-15 23:26:20 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-11-16 00:09:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2024-11-15 23:41:47 +0000"
     },
     "done": true
   },
@@ -393,27 +374,9 @@
     },
     "done": true
   },
-  "mekanismadditions:hurt_by_babies": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "baby_skeleton": "2024-11-16 00:07:38 +0000"
-    },
-    "done": false
-  },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2024-11-15 23:33:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2024-11-15 23:50:53 +0000"
-    },
-    "done": true
-  },
-  "quark:mine_toretoise": {
-    "criteria": {
-      "mine_toretoise": "2024-11-15 23:28:30 +0000"
+      "slept_in_bed": "2024-11-15 22:51:14 +0000"
     },
     "done": true
   },
@@ -423,58 +386,12 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2024-11-15 23:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-11-15 23:34:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2024-11-15 23:32:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-11-15 22:51:14 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/find_scroll_howling": {
-    "criteria": {
-      "find": "2024-11-15 23:29:50 +0000"
-    },
-    "done": true
-  },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2024-11-16 00:16:20 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2024-11-15 23:31:18 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:novice_spell_book": {
-    "criteria": {
-      "has_novice_spell_book": "2024-11-15 23:44:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rabbit_stew": "2024-11-16 17:24:51 +0000",
       "golden_apple": "2024-11-16 00:11:30 +0000",
-      "melon_slice": "2024-11-15 23:00:06 +0000"
+      "melon_slice": "2024-11-15 23:00:06 +0000",
+      "pumpkin_pie": "2024-11-16 15:10:07 +0000"
     },
     "done": false
   },
@@ -484,15 +401,27 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/paper_lanterns": {
+  "botania:main/flower_pickup": {
     "criteria": {
-      "has_item": "2024-11-16 00:06:14 +0000"
+      "double_flower": "2024-11-15 23:15:52 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
-      "diamond": "2024-11-16 00:30:30 +0000"
+      "killed_by": "2024-11-15 23:24:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2024-11-15 23:25:31 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-11-15 23:26:20 +0000"
     },
     "done": true
   },
@@ -502,15 +431,213 @@
     },
     "done": true
   },
-  "botania:main/flower_pickup": {
+  "quark:mine_toretoise": {
     "criteria": {
-      "double_flower": "2024-11-15 23:15:52 +0000"
+      "mine_toretoise": "2024-11-15 23:28:30 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_toxic_caves": {
+  "tetra:spelunking/find_scroll": {
     "criteria": {
-      "discover": "2024-11-15 23:25:31 +0000"
+      "find": "2024-11-15 23:29:50 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_howling": {
+    "criteria": {
+      "find": "2024-11-15 23:29:50 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-11-15 23:31:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-15 23:32:16 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-11-15 23:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-15 23:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-11-15 23:41:47 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-11-15 23:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-15 23:50:53 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/paper_lanterns": {
+    "criteria": {
+      "has_item": "2024-11-16 00:06:14 +0000"
+    },
+    "done": true
+  },
+  "mekanismadditions:hurt_by_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-11-16 00:07:38 +0000"
+    },
+    "done": false
+  },
+  "mekanismadditions:not_the_babies": {
+    "criteria": {
+      "baby_skeleton": "2024-11-16 00:07:42 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-11-16 00:09:17 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-11-16 00:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-11-16 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-11-16 15:17:40 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2024-11-16 15:56:50 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-11-16 16:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-16 17:14:34 +0000"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-11-16 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/parquets": {
+    "criteria": {
+      "has_item": "2024-11-16 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/trims": {
+    "criteria": {
+      "has_item": "2024-11-16 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/lattices": {
+    "criteria": {
+      "has_item": "2024-11-16 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/sanded_wood": {
+    "criteria": {
+      "has_item": "2024-11-16 17:18:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-11-16 17:24:51 +0000"
+    },
+    "done": true
+  },
+  "chalk:adventure/sleep_three_times_in_one_place": {
+    "criteria": {
+      "sleep_three_times_in_one_place": "2024-11-16 17:47:10 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-11-16 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-11-16 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-11-16 22:30:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-11-16 19:17:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-11-16 19:42:14 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-11-16 19:42:14 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-11-16 20:36:59 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2024-11-16 19:23:13 +0000"
     },
     "done": true
   },
