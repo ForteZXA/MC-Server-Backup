@@ -265,6 +265,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-11-17 17:45:55 +0000",
       "minecraft:dark_forest": "2024-11-15 19:08:48 +0000",
       "minecraft:sparse_jungle": "2024-11-15 19:09:25 +0000",
       "minecraft:river": "2024-11-15 19:07:46 +0000",
@@ -358,6 +359,7 @@
       "minecraft:skeleton": "2024-11-15 18:07:02 +0000",
       "minecraft:spider": "2024-11-15 18:10:03 +0000",
       "minecraft:creeper": "2024-11-15 19:06:58 +0000",
+      "minecraft:enderman": "2024-11-17 18:01:07 +0000",
       "minecraft:zombie": "2024-11-15 18:08:02 +0000"
     },
     "done": false
@@ -421,6 +423,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-11-15 22:51:20 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/root": {
+    "criteria": {
+      "spelunking": "2024-11-17 17:45:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-11-17 17:45:55 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2024-11-17 17:45:55 +0000"
     },
     "done": true
   },
