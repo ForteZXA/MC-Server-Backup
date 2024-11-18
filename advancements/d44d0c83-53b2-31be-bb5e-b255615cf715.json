@@ -833,5 +833,48 @@
     },
     "done": false
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-11-17 23:59:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2024-11-18 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "aether:phoenix_armor": {
+    "criteria": {
+      "phoenix_helmet": "2024-11-18 00:25:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_helmet": "2024-11-18 00:26:36 +0000",
+      "fiery_chestplate": "2024-11-18 00:27:20 +0000"
+    },
+    "done": false
+  },
+  "mekanismtools:not_enough_shielding": {
+    "criteria": {
+      "shields": "2024-11-18 00:28:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deep_one_items": {
+    "criteria": {
+      "sea_staff": "2024-11-18 00:30:00 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/totem_of_possession": {
+    "criteria": {
+      "totem_of_possession": "2024-11-18 00:30:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

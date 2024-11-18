@@ -378,18 +378,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2024-11-17 22:02:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-11-17 22:40:10 +0000"
-    },
-    "done": true
-  },
   "hearth_and_home:recipes/chimneys": {
     "criteria": {
       "has_item": "2024-11-17 22:02:20 +0000"
@@ -402,11 +390,30 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-11-17 22:02:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-11-17 22:40:10 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2024-11-17 22:42:05 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2024-11-17 23:59:43 +0000",
+      "black": "2024-11-17 23:59:50 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

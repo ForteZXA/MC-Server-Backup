@@ -647,39 +647,9 @@
     },
     "done": true
   },
-  "tetra:spelunking/find_scroll_sturdy": {
-    "criteria": {
-      "find": "2024-11-17 22:16:46 +0000"
-    },
-    "done": true
-  },
   "create:water_wheel": {
     "criteria": {
       "0": "2024-11-17 20:21:19 +0000"
-    },
-    "done": true
-  },
-  "pneumaticcraft:programming_puzzle": {
-    "criteria": {
-      "0": "2024-11-17 23:19:50 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:root": {
-    "criteria": {
-      "ars_nouveau:worn_notebook": "2024-11-17 21:12:42 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_book": {
-    "criteria": {
-      "cave_book": "2024-11-17 21:09:01 +0000"
-    },
-    "done": true
-  },
-  "create:chute": {
-    "criteria": {
-      "0": "2024-11-17 20:58:26 +0000"
     },
     "done": true
   },
@@ -695,9 +665,15 @@
     },
     "done": true
   },
-  "pneumaticcraft:pressure_tube": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "0": "2024-11-17 21:21:12 +0000"
+      "potato": "2024-11-17 20:40:44 +0000"
+    },
+    "done": false
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-11-17 20:58:26 +0000"
     },
     "done": true
   },
@@ -707,11 +683,53 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "alexscaves:alexscaves/cave_book": {
     "criteria": {
-      "potato": "2024-11-17 20:40:44 +0000"
+      "cave_book": "2024-11-17 21:09:01 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-11-17 21:12:42 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_tube": {
+    "criteria": {
+      "0": "2024-11-17 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_sturdy": {
+    "criteria": {
+      "find": "2024-11-17 22:16:46 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:programming_puzzle": {
+    "criteria": {
+      "0": "2024-11-17 23:19:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_luxtructosaurus": {
+    "criteria": {
+      "killed": "2024-11-18 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_luxtructosaurus": "2024-11-18 00:13:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2024-11-18 00:22:07 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
