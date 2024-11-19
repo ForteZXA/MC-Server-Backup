@@ -15,7 +15,7 @@
 		#The number of additional chunk claims that you can make on top of the normal limit.
 		bonusChunkClaims = 0
 		#The number of additional chunk claim forceloads that you can make on top of the normal limit.
-		bonusChunkForceloads = 0
+		bonusChunkForceloads = 20
 
 		[playerConfig.claims.protection]
 			#When enabled, claimed chunk protection includes protection against players from the same party as you.

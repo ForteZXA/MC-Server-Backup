@@ -270,6 +270,7 @@
       "minecraft:dark_forest": "2024-11-16 15:21:29 +0000",
       "minecraft:sparse_jungle": "2024-11-15 19:57:17 +0000",
       "minecraft:river": "2024-11-15 19:42:07 +0000",
+      "minecraft:dripstone_caves": "2024-11-18 21:38:16 +0000",
       "minecraft:forest": "2024-11-15 23:21:43 +0000",
       "minecraft:lush_caves": "2024-11-16 15:46:23 +0000",
       "minecraft:jungle": "2024-11-15 17:28:55 +0000",
@@ -299,20 +300,25 @@
       "shrubland": "2024-11-15 23:22:22 +0000",
       "rocky_shrubland": "2024-11-15 23:21:51 +0000",
       "scrubland": "2024-11-15 23:11:09 +0000",
+      "erupting_inferno": "2024-11-18 19:48:40 +0000",
+      "highland": "2024-11-18 15:30:43 +0000",
       "clover_patch": "2024-11-15 23:25:09 +0000",
       "old_growth_woodland": "2024-11-15 19:42:47 +0000",
       "crystalline_chasm": "2024-11-15 19:55:13 +0000",
       "orchard": "2024-11-16 15:12:45 +0000",
       "lavender_forest": "2024-11-15 23:23:37 +0000",
+      "moor": "2024-11-18 15:37:00 +0000",
       "mediterranean_forest": "2024-11-15 23:10:29 +0000",
       "spider_nest": "2024-11-15 23:26:18 +0000",
       "redwood_forest": "2024-11-16 15:10:32 +0000",
+      "visceral_heap": "2024-11-18 21:00:36 +0000",
       "volcano": "2024-11-15 17:38:14 +0000",
       "rocky_rainforest": "2024-11-15 23:21:00 +0000",
       "volcanic_plains": "2024-11-15 17:38:24 +0000",
       "lavender_field": "2024-11-16 15:10:44 +0000",
       "grassland": "2024-11-15 23:21:41 +0000",
       "glowing_grotto": "2024-11-16 00:17:09 +0000",
+      "undergrowth": "2024-11-18 19:40:23 +0000",
       "rainforest": "2024-11-15 19:42:05 +0000"
     },
     "done": false
@@ -343,19 +349,25 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-11-18 20:08:34 +0000",
       "minecraft:skeleton": "2024-11-15 23:28:20 +0000",
       "upgrade_aquatic:great_thrasher": "2024-11-15 22:47:53 +0000",
+      "minecraft:hoglin": "2024-11-18 19:56:54 +0000",
+      "minecraft:magma_cube": "2024-11-18 20:18:37 +0000",
       "minecraft:spider": "2024-11-16 15:49:10 +0000",
+      "minecraft:piglin_brute": "2024-11-18 21:02:47 +0000",
       "minecraft:creeper": "2024-11-17 20:05:35 +0000",
       "minecraft:slime": "2024-11-17 22:03:42 +0000",
       "sullysmod:bouldering_zombie": "2024-11-16 15:57:42 +0000",
       "quark:forgotten": "2024-11-15 23:31:18 +0000",
       "minecraft:witch": "2024-11-17 23:11:25 +0000",
+      "minecraft:wither_skeleton": "2024-11-18 20:39:22 +0000",
       "minecraft:cave_spider": "2024-11-16 00:15:48 +0000",
       "minecraft:piglin": "2024-11-15 19:55:18 +0000",
       "minecraft:enderman": "2024-11-15 23:28:53 +0000",
       "minecraft:silverfish": "2024-11-16 19:36:21 +0000",
       "minecraft:zombie": "2024-11-16 15:26:49 +0000",
+      "quark:foxhound": "2024-11-18 21:23:35 +0000",
       "minecraft:drowned": "2024-11-17 20:03:24 +0000"
     },
     "done": false
@@ -728,6 +740,117 @@
   "alexscaves:alexscaves/extinction_spear": {
     "criteria": {
       "dreadbow": "2024-11-18 00:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-11-18 14:53:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2024-11-18 15:22:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2024-11-18 15:23:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/acid_create_rust": {
+    "criteria": {
+      "rust": "2024-11-18 15:23:54 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_throwing": {
+    "criteria": {
+      "find": "2024-11-18 15:27:18 +0000"
+    },
+    "done": true
+  },
+  "ars_elemental:summon_skeleton_horse": {
+    "criteria": {
+      "summon_skeleton_horse": "2024-11-18 16:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-11-18 21:10:41 +0000",
+      "minecraft:nether_wastes": "2024-11-18 19:43:29 +0000",
+      "minecraft:basalt_deltas": "2024-11-18 20:20:33 +0000",
+      "minecraft:warped_forest": "2024-11-18 21:01:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-11-18 19:49:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2024-11-18 20:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2024-11-18 20:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-11-18 20:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-11-18 21:06:11 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/find_scroll_warforge": {
+    "criteria": {
+      "find": "2024-11-18 21:06:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-11-18 21:07:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-11-18 21:12:25 +0000"
+    },
+    "done": true
+  },
+  "botania:main/lexicon_use": {
+    "criteria": {
+      "use_lexicon": "2024-11-18 22:03:09 +0000"
+    },
+    "done": true
+  },
+  "botania:main/apothecary_pickup": {
+    "criteria": {
+      "apothecary": "2024-11-18 22:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-11-18 23:42:10 +0000"
     },
     "done": true
   },
