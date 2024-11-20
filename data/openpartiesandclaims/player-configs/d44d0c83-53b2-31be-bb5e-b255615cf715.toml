@@ -8,7 +8,7 @@
 		color = 0
 		protectClaimedChunks = true
 		bonusChunkClaims = 0
-		bonusChunkForceloads = 0
+		bonusChunkForceloads = 15
 
 		[playerConfig.claims.protection]
 			fromParty = false
