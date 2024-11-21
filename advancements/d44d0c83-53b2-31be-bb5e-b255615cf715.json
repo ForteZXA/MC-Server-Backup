@@ -282,6 +282,7 @@
       "minecraft:jungle": "2024-11-15 16:39:46 +0000",
       "minecraft:ocean": "2024-11-19 21:21:47 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-16 15:20:11 +0000",
+      "minecraft:deep_dark": "2024-11-21 00:54:24 +0000",
       "minecraft:meadow": "2024-11-16 15:27:24 +0000",
       "minecraft:savanna": "2024-11-15 23:08:30 +0000",
       "minecraft:plains": "2024-11-15 23:07:48 +0000",
@@ -354,6 +355,7 @@
       "minecraft:spider": "2024-11-15 18:06:11 +0000",
       "minecraft:piglin_brute": "2024-11-18 19:52:28 +0000",
       "minecraft:creeper": "2024-11-16 00:28:41 +0000",
+      "sullysmod:bouldering_zombie": "2024-11-21 00:53:25 +0000",
       "minecraft:witch": "2024-11-18 16:21:08 +0000",
       "minecraft:wither_skeleton": "2024-11-18 20:35:20 +0000",
       "minecraft:cave_spider": "2024-11-16 00:23:32 +0000",
@@ -422,6 +424,7 @@
       "cooked_porkchop": "2024-11-18 21:23:35 +0000",
       "cooked_beef": "2024-11-16 18:08:56 +0000",
       "porkchop": "2024-11-16 15:51:58 +0000",
+      "glow_berries": "2024-11-21 01:11:09 +0000",
       "cooked_chicken": "2024-11-18 20:57:31 +0000",
       "cooked_mutton": "2024-11-15 23:29:56 +0000",
       "apple": "2024-11-15 23:19:10 +0000"
@@ -550,7 +553,10 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "warden": "2024-11-15 23:35:45 +0000"
+      "shattered": "2024-11-21 01:04:51 +0000",
+      "sculk_centipede": "2024-11-21 01:18:54 +0000",
+      "warden": "2024-11-15 23:35:45 +0000",
+      "sculk_snapper": "2024-11-21 01:19:27 +0000"
     },
     "done": false
   },
@@ -1042,123 +1048,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
-    "criteria": {
-      "rat_upgrade_basic": "2024-11-19 22:13:59 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:multiblocks/mb_improvedblastfurnace": {
-    "criteria": {
-      "form_multiblock": "2024-11-19 20:45:13 +0000"
-    },
-    "done": true
-  },
-  "botania:challenge/root": {
-    "criteria": {
-      "flower": "2024-11-19 22:46:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/nuclear_bomb": {
-    "criteria": {
-      "nuclear_bomb": "2024-11-19 21:12:31 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:suns_blessing": {
-    "criteria": {
-      "get_suns_blessing": "2024-11-19 21:57:25 +0000"
-    },
-    "done": true
-  },
-  "enlightened_end:enlightened_end_root": {
-    "criteria": {
-      "enlightened_end_root": "2024-11-19 22:13:00 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_radiation_foods": {
-    "criteria": {
-      "green_soylent": "2024-11-19 21:17:37 +0000"
-    },
-    "done": false
-  },
-  "botania:main/root": {
-    "criteria": {
-      "flower": "2024-11-19 22:46:15 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_ferrous_wroughtnaut": {
-    "criteria": {
-      "ferrous_wroughtnaut": "2024-11-19 21:47:08 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/void_worm_summon": {
-    "criteria": {
-      "ex": "2024-11-19 22:18:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_magnetic_caves": {
-    "criteria": {
-      "discover": "2024-11-19 21:31:46 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/void_worm_split": {
-    "criteria": {
-      "ex": "2024-11-19 22:27:41 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_notor": {
-    "criteria": {
-      "killed": "2024-11-19 21:35:55 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/capsid": {
-    "criteria": {
-      "capsid": "2024-11-19 22:13:52 +0000"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup_lexicon": {
-    "criteria": {
-      "flower": "2024-11-19 22:46:15 +0000"
-    },
-    "done": true
-  },
-  "mekanism:playing_with_fire": {
-    "criteria": {
-      "flamethrower": "2024-11-19 22:43:12 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2024-11-19 20:57:29 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:main/use_cutting_board": {
     "criteria": {
       "cutting_board": "2024-11-19 19:31:05 +0000"
     },
     "done": true
   },
-  "enlightened_end:upper_end_advancement": {
+  "immersiveengineering:main/mb_blastfurnace": {
     "criteria": {
-      "upper_end_advancement": "2024-11-19 22:12:26 +0000"
+      "form_multiblock": "2024-11-19 19:40:26 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/farseer": {
+  "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
-      "killed": "2024-11-19 22:34:06 +0000"
+      "cave_tablet": "2024-11-19 19:50:26 +0000"
     },
     "done": true
   },
@@ -1168,15 +1072,75 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/mysterious_worm": {
+  "immersiveengineering:multiblocks/mb_improvedblastfurnace": {
     "criteria": {
-      "mysterious_worm": "2024-11-19 22:14:21 +0000"
+      "form_multiblock": "2024-11-19 20:45:13 +0000"
     },
     "done": true
   },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-11-19 20:50:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-11-19 20:57:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2024-11-19 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2024-11-19 21:12:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2024-11-19 21:17:37 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2024-11-19 21:31:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_notor": {
+    "criteria": {
+      "killed": "2024-11-19 21:35:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2024-11-19 21:36:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2024-11-19 21:47:08 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2024-11-19 21:57:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-11-19 22:02:13 +0000"
     },
     "done": true
   },
@@ -1192,15 +1156,51 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_magnetron": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "killed": "2024-11-19 21:36:41 +0000"
+      "entered_end": "2024-11-19 22:10:48 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/dimensional_carver": {
+  "enlightened_end:upper_end_advancement": {
     "criteria": {
-      "dimensional_carver": "2024-11-19 22:31:26 +0000"
+      "upper_end_advancement": "2024-11-19 22:12:26 +0000"
+    },
+    "done": true
+  },
+  "enlightened_end:enlightened_end_root": {
+    "criteria": {
+      "enlightened_end_root": "2024-11-19 22:13:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2024-11-19 22:13:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-11-19 22:13:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2024-11-19 22:14:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_summon": {
+    "criteria": {
+      "ex": "2024-11-19 22:18:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2024-11-19 22:27:41 +0000"
     },
     "done": true
   },
@@ -1210,27 +1210,39 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "alexsmobs:alexsmobs/dimensional_carver": {
     "criteria": {
-      "cave_tablet": "2024-11-19 19:50:26 +0000"
+      "dimensional_carver": "2024-11-19 22:31:26 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_map": {
+  "alexsmobs:alexsmobs/farseer": {
     "criteria": {
-      "cave_map": "2024-11-19 21:07:14 +0000"
+      "killed": "2024-11-19 22:34:06 +0000"
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "mekanism:playing_with_fire": {
     "criteria": {
-      "naga": "2024-11-19 22:02:13 +0000"
+      "flamethrower": "2024-11-19 22:43:12 +0000"
     },
     "done": true
   },
-  "immersiveengineering:main/mb_blastfurnace": {
+  "botania:challenge/root": {
     "criteria": {
-      "form_multiblock": "2024-11-19 19:40:26 +0000"
+      "flower": "2024-11-19 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-11-19 22:46:15 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-11-19 22:46:15 +0000"
     },
     "done": true
   },
@@ -1240,9 +1252,80 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
+  "deeperdarker:main/enter_otherside": {
     "criteria": {
-      "entered_end": "2024-11-19 22:10:48 +0000"
+      "otherside": "2024-11-21 01:02:57 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-21 00:54:24 +0000"
+    },
+    "done": true
+  },
+  "pneumaticcraft:minigun": {
+    "criteria": {
+      "0": "2024-11-21 00:24:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-21 01:17:59 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-11-21 00:56:24 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2024-11-21 01:05:18 +0000",
+      "deeplands": "2024-11-21 01:09:47 +0000",
+      "echoing_forest": "2024-11-21 01:02:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:gronglegrowth": "2024-11-21 01:31:08 +0000",
+      "undergarden:forgotten_field": "2024-11-21 01:30:29 +0000",
+      "undergarden:veil_mushroom_bog": "2024-11-21 01:31:09 +0000",
+      "undergarden:ancient_sea": "2024-11-21 01:32:01 +0000"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/kill_all_rotspawn": {
+    "criteria": {
+      "kill_rotbeast": "2024-11-21 01:34:43 +0000"
+    },
+    "done": false
+  },
+  "immersiveengineering:tools/craft_drill": {
+    "criteria": {
+      "has_item": "2024-11-21 00:27:03 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catalyst": {
+    "criteria": {
+      "has_catalyst": "2024-11-21 01:27:01 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2024-11-21 01:30:28 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-11-21 00:57:00 +0000"
     },
     "done": true
   },

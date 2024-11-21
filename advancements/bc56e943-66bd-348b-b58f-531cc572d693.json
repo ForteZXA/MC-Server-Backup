@@ -270,11 +270,15 @@
       "minecraft:dark_forest": "2024-11-16 15:21:29 +0000",
       "minecraft:sparse_jungle": "2024-11-15 19:57:17 +0000",
       "minecraft:river": "2024-11-15 19:42:07 +0000",
+      "minecraft:stony_shore": "2024-11-21 00:58:41 +0000",
       "minecraft:dripstone_caves": "2024-11-18 21:38:16 +0000",
       "minecraft:forest": "2024-11-15 23:21:43 +0000",
       "minecraft:lush_caves": "2024-11-16 15:46:23 +0000",
       "minecraft:jungle": "2024-11-15 17:28:55 +0000",
+      "minecraft:ocean": "2024-11-21 00:58:34 +0000",
+      "minecraft:flower_forest": "2024-11-21 00:58:50 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-15 23:21:26 +0000",
+      "minecraft:deep_dark": "2024-11-21 00:54:31 +0000",
       "minecraft:meadow": "2024-11-16 19:14:25 +0000",
       "minecraft:savanna": "2024-11-15 23:11:20 +0000",
       "minecraft:plains": "2024-11-15 23:20:25 +0000",
@@ -944,9 +948,87 @@
     },
     "done": true
   },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2024-11-21 01:02:54 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-21 00:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-21 01:22:35 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/ancient_ruins": {
+    "criteria": {
+      "regular_ruin": "2024-11-21 00:56:12 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-11-21 01:15:03 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2024-11-21 01:05:23 +0000",
+      "deeplands": "2024-11-21 01:10:28 +0000",
+      "echoing_forest": "2024-11-21 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:gronglegrowth": "2024-11-21 01:30:51 +0000",
+      "undergarden:forgotten_field": "2024-11-21 01:30:23 +0000",
+      "undergarden:veil_mushroom_bog": "2024-11-21 01:30:52 +0000",
+      "undergarden:ancient_sea": "2024-11-21 01:32:02 +0000"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2024-11-21 01:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/read_power_of_chiseled_bookshelf": {
     "criteria": {
       "comparator": "2024-11-20 23:31:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2024-11-21 01:04:25 +0000",
+      "warden": "2024-11-21 01:15:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2024-11-21 00:59:05 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-11-21 02:35:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-21 02:35:41 +0000"
     },
     "done": true
   },
