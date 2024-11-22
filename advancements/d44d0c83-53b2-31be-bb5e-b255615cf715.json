@@ -1464,6 +1464,24 @@
     },
     "done": true
   },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2024-11-22 03:00:53 +0000"
+    },
+    "done": true
+  },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2024-11-22 03:13:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2024-11-22 02:46:23 +0000"
+    },
+    "done": true
+  },
   "mekanism:reinforced_alloy": {
     "criteria": {
       "alloy_reinforced": "2024-11-21 22:08:19 +0000"
@@ -1542,6 +1560,12 @@
     },
     "done": true
   },
+  "mekanism:full_canteen": {
+    "criteria": {
+      "full_canteen": "2024-11-22 02:43:16 +0000"
+    },
+    "done": true
+  },
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2024-11-21 17:54:44 +0000"
@@ -1569,6 +1593,12 @@
   "mekanism:logistical_sorter": {
     "criteria": {
       "logistical_sorter": "2024-11-21 22:17:03 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2024-11-22 00:54:05 +0000"
     },
     "done": true
   },

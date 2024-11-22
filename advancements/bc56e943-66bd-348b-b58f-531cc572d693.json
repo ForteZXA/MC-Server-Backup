@@ -1108,27 +1108,9 @@
     },
     "done": true
   },
-  "aquamirae:recipes/oxygen_tank": {
-    "criteria": {
-      "has_item": "2024-11-21 21:53:39 +0000"
-    },
-    "done": true
-  },
   "ae2:main/storage_bus": {
     "criteria": {
       "part": "2024-11-21 21:05:17 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/fluix": {
-    "criteria": {
-      "certus": "2024-11-21 22:13:17 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2024-11-21 22:35:20 +0000"
     },
     "done": true
   },
@@ -1144,15 +1126,9 @@
     },
     "done": true
   },
-  "ae2:main/growth_accelerator": {
+  "aquamirae:recipes/oxygen_tank": {
     "criteria": {
-      "certus": "2024-11-21 22:30:22 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2024-11-21 22:35:20 +0000"
+      "has_item": "2024-11-21 21:53:39 +0000"
     },
     "done": true
   },
@@ -1165,15 +1141,75 @@
     },
     "done": true
   },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2024-11-21 22:13:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2024-11-21 22:30:22 +0000"
+    },
+    "done": true
+  },
   "galosphere:adventure/silver_ingot": {
     "criteria": {
       "silver_ingot": "2024-11-21 22:35:07 +0000"
     },
     "done": true
   },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-11-21 22:35:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-11-21 22:35:20 +0000"
+    },
+    "done": true
+  },
   "ae2:main/charged_quartz": {
     "criteria": {
       "certus": "2024-11-21 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2024-11-22 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2024-11-22 01:55:23 +0000"
+    },
+    "done": true
+  },
+  "mekanism:disassembler": {
+    "criteria": {
+      "atomic_disassembler": "2024-11-22 04:02:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:personal_storage": {
+    "criteria": {
+      "storage": "2024-11-22 02:38:18 +0000"
+    },
+    "done": true
+  },
+  "mekanism:full_canteen": {
+    "criteria": {
+      "full_canteen": "2024-11-22 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2024-11-22 02:10:42 +0000"
     },
     "done": true
   },

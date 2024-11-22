@@ -265,6 +265,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-22 01:46:24 +0000",
       "minecraft:birch_forest": "2024-11-17 17:45:55 +0000",
       "minecraft:bamboo_jungle": "2024-11-19 20:23:56 +0000",
       "minecraft:dark_forest": "2024-11-15 19:08:48 +0000",
@@ -272,7 +273,8 @@
       "minecraft:river": "2024-11-15 19:07:46 +0000",
       "minecraft:forest": "2024-11-19 20:17:30 +0000",
       "minecraft:jungle": "2024-11-15 17:49:49 +0000",
-      "minecraft:deep_dark": "2024-11-19 20:22:03 +0000"
+      "minecraft:deep_dark": "2024-11-19 20:22:03 +0000",
+      "minecraft:plains": "2024-11-22 01:45:27 +0000"
     },
     "done": false
   },
@@ -339,7 +341,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-11-15 19:07:48 +0000",
+      "shrubland": "2024-11-22 01:45:55 +0000",
       "scrubland": "2024-11-19 20:43:16 +0000",
+      "jade_cliffs": "2024-11-22 01:45:56 +0000",
       "clover_patch": "2024-11-15 19:08:50 +0000",
       "old_growth_woodland": "2024-11-15 19:02:28 +0000",
       "crystalline_chasm": "2024-11-15 19:54:10 +0000",
@@ -454,33 +458,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "deep_dark": "2024-11-19 20:22:03 +0000"
-    },
-    "done": true
-  },
-  "tetra:recipes/string": {
-    "criteria": {
-      "got_string": "2024-11-19 19:53:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-11-19 20:25:05 +0000"
-    },
-    "done": true
-  },
-  "tetra:spelunking/geode": {
-    "criteria": {
-      "get_geode": "2024-11-19 20:08:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2024-11-19 20:09:25 +0000"
+      "diamond": "2024-11-19 19:45:07 +0000"
     },
     "done": true
   },
@@ -496,15 +476,76 @@
     },
     "done": true
   },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-11-19 19:53:00 +0000"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2024-11-19 20:08:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-19 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2024-11-19 20:22:03 +0000"
+    },
+    "done": true
+  },
   "mekanism:materials": {
     "criteria": {
       "material": "2024-11-19 20:22:34 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
-      "diamond": "2024-11-19 19:45:07 +0000"
+      "kill_mob_near_sculk_catalyst": "2024-11-19 20:25:05 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-11-22 02:29:39 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-11-22 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-11-22 02:32:16 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:paxel": {
+    "criteria": {
+      "any_paxel": "2024-11-22 02:13:35 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-11-22 03:01:40 +0000",
+      "1": "2024-11-22 02:52:03 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-11-22 02:49:05 +0000"
     },
     "done": true
   },
