@@ -265,11 +265,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-11-21 16:49:34 +0000",
       "minecraft:birch_forest": "2024-11-15 23:21:34 +0000",
       "minecraft:bamboo_jungle": "2024-11-15 19:56:47 +0000",
       "minecraft:dark_forest": "2024-11-16 15:21:29 +0000",
       "minecraft:sparse_jungle": "2024-11-15 19:57:17 +0000",
       "minecraft:river": "2024-11-15 19:42:07 +0000",
+      "minecraft:lukewarm_ocean": "2024-11-21 21:50:45 +0000",
       "minecraft:stony_shore": "2024-11-21 00:58:41 +0000",
       "minecraft:dripstone_caves": "2024-11-18 21:38:16 +0000",
       "minecraft:forest": "2024-11-15 23:21:43 +0000",
@@ -306,9 +308,11 @@
       "scrubland": "2024-11-15 23:11:09 +0000",
       "erupting_inferno": "2024-11-18 19:48:40 +0000",
       "highland": "2024-11-18 15:30:43 +0000",
+      "jade_cliffs": "2024-11-21 16:44:41 +0000",
       "clover_patch": "2024-11-15 23:25:09 +0000",
       "old_growth_woodland": "2024-11-15 19:42:47 +0000",
       "crystalline_chasm": "2024-11-15 19:55:13 +0000",
+      "withered_abyss": "2024-11-21 16:10:20 +0000",
       "orchard": "2024-11-16 15:12:45 +0000",
       "lavender_forest": "2024-11-15 23:23:37 +0000",
       "moor": "2024-11-18 15:37:00 +0000",
@@ -356,6 +360,7 @@
       "minecraft:blaze": "2024-11-18 20:08:34 +0000",
       "minecraft:skeleton": "2024-11-15 23:28:20 +0000",
       "upgrade_aquatic:great_thrasher": "2024-11-15 22:47:53 +0000",
+      "minecraft:ghast": "2024-11-21 15:54:36 +0000",
       "minecraft:hoglin": "2024-11-18 19:56:54 +0000",
       "minecraft:magma_cube": "2024-11-18 20:18:37 +0000",
       "minecraft:spider": "2024-11-16 15:49:10 +0000",
@@ -364,9 +369,11 @@
       "minecraft:slime": "2024-11-17 22:03:42 +0000",
       "sullysmod:bouldering_zombie": "2024-11-16 15:57:42 +0000",
       "quark:forgotten": "2024-11-15 23:31:18 +0000",
+      "minecraft:phantom": "2024-11-21 22:03:38 +0000",
       "minecraft:witch": "2024-11-17 23:11:25 +0000",
       "minecraft:wither_skeleton": "2024-11-18 20:39:22 +0000",
       "minecraft:cave_spider": "2024-11-16 00:15:48 +0000",
+      "quark:wraith": "2024-11-21 16:23:19 +0000",
       "minecraft:piglin": "2024-11-15 19:55:18 +0000",
       "minecraft:enderman": "2024-11-15 23:28:53 +0000",
       "minecraft:silverfish": "2024-11-16 19:36:21 +0000",
@@ -413,6 +420,7 @@
       "golden_apple": "2024-11-16 00:11:30 +0000",
       "melon_slice": "2024-11-15 23:00:06 +0000",
       "cooked_chicken": "2024-11-17 21:07:47 +0000",
+      "apple": "2024-11-21 22:04:17 +0000",
       "pumpkin_pie": "2024-11-16 15:10:07 +0000"
     },
     "done": false
@@ -787,10 +795,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-11-18 21:10:41 +0000",
       "minecraft:nether_wastes": "2024-11-18 19:43:29 +0000",
+      "minecraft:soul_sand_valley": "2024-11-21 16:22:31 +0000",
       "minecraft:basalt_deltas": "2024-11-18 20:20:33 +0000",
       "minecraft:warped_forest": "2024-11-18 21:01:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/find_bastion": {
     "criteria": {
@@ -948,9 +957,9 @@
     },
     "done": true
   },
-  "deeperdarker:main/enter_otherside": {
+  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
     "criteria": {
-      "otherside": "2024-11-21 01:02:54 +0000"
+      "comparator": "2024-11-20 23:31:58 +0000"
     },
     "done": true
   },
@@ -960,21 +969,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2024-11-21 01:22:35 +0000"
-    },
-    "done": true
-  },
   "tetra:spelunking/ancient_ruins": {
     "criteria": {
       "regular_ruin": "2024-11-21 00:56:12 +0000"
     },
     "done": true
   },
-  "deeperdarker:main/kill_warden": {
+  "deeperdarker:main/find_ancient_city": {
     "criteria": {
-      "warden": "2024-11-21 01:15:03 +0000"
+      "ancient_city": "2024-11-21 00:59:05 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2024-11-21 01:02:54 +0000"
     },
     "done": true
   },
@@ -983,6 +992,26 @@
       "overcast_columns": "2024-11-21 01:05:23 +0000",
       "deeplands": "2024-11-21 01:10:28 +0000",
       "echoing_forest": "2024-11-21 01:02:55 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "shattered": "2024-11-21 01:04:25 +0000",
+      "phantom": "2024-11-21 22:03:38 +0000",
+      "warden": "2024-11-21 01:15:03 +0000"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2024-11-21 01:15:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-21 01:22:35 +0000"
     },
     "done": true
   },
@@ -1001,25 +1030,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/read_power_of_chiseled_bookshelf": {
-    "criteria": {
-      "comparator": "2024-11-20 23:31:58 +0000"
-    },
-    "done": true
-  },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "shattered": "2024-11-21 01:04:25 +0000",
-      "warden": "2024-11-21 01:15:03 +0000"
-    },
-    "done": false
-  },
-  "deeperdarker:main/find_ancient_city": {
-    "criteria": {
-      "ancient_city": "2024-11-21 00:59:05 +0000"
-    },
-    "done": true
-  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-11-21 02:35:41 +0000"
@@ -1029,6 +1039,141 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-11-21 02:35:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-11-21 16:11:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2024-11-21 16:23:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-11-21 16:27:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-21 16:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-11-21 16:32:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-11-21 16:36:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hatch_tremorzilla_egg": {
+    "criteria": {
+      "hatch_tremorzilla_egg": "2024-11-21 16:44:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-11-21 16:51:13 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2024-11-21 19:14:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-11-21 19:29:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2024-11-21 19:32:17 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2024-11-21 21:53:39 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2024-11-21 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/fluix": {
+    "criteria": {
+      "certus": "2024-11-21 22:13:17 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-11-21 22:35:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/crafting_terminal": {
+    "criteria": {
+      "certus": "2024-11-21 21:07:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/compass": {
+    "criteria": {
+      "compass": "2024-11-21 21:50:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/growth_accelerator": {
+    "criteria": {
+      "certus": "2024-11-21 22:30:22 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2024-11-21 22:35:20 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2024-11-21 21:59:57 +0000",
+      "silicon": "2024-11-21 21:59:57 +0000",
+      "engineering": "2024-11-21 21:58:45 +0000",
+      "logic": "2024-11-21 21:58:46 +0000"
+    },
+    "done": true
+  },
+  "galosphere:adventure/silver_ingot": {
+    "criteria": {
+      "silver_ingot": "2024-11-21 22:35:07 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2024-11-21 23:36:33 +0000"
     },
     "done": true
   },
