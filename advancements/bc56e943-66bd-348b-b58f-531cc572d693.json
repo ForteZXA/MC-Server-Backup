@@ -1224,9 +1224,21 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-11-23 00:57:52 +0000"
+    },
+    "done": true
+  },
   "ae2:main/ioport": {
     "criteria": {
       "certus": "2024-11-22 21:06:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-11-23 01:02:06 +0000"
     },
     "done": true
   },
@@ -1253,6 +1265,12 @@
       "make_portal": "2024-11-22 22:48:30 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_naga": "2024-11-23 01:02:06 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
