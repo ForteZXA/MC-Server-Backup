@@ -512,15 +512,15 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
+  "mekanismtools:paxel": {
     "criteria": {
-      "0": "2024-11-22 02:29:39 +0000"
+      "any_paxel": "2024-11-22 02:13:35 +0000"
     },
     "done": true
   },
-  "create:water_wheel": {
+  "create:andesite_alloy": {
     "criteria": {
-      "0": "2024-11-22 02:43:08 +0000"
+      "0": "2024-11-22 02:29:39 +0000"
     },
     "done": true
   },
@@ -530,9 +530,15 @@
     },
     "done": true
   },
-  "mekanismtools:paxel": {
+  "create:water_wheel": {
     "criteria": {
-      "any_paxel": "2024-11-22 02:13:35 +0000"
+      "0": "2024-11-22 02:43:08 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-11-22 02:49:05 +0000"
     },
     "done": true
   },
@@ -540,12 +546,6 @@
     "criteria": {
       "0": "2024-11-22 03:01:40 +0000",
       "1": "2024-11-22 02:52:03 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2024-11-22 02:49:05 +0000"
     },
     "done": true
   },
