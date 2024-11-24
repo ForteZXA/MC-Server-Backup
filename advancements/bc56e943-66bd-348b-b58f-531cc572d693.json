@@ -872,7 +872,10 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "encased_towerwood": "2024-11-23 23:58:35 +0000",
+      "towerwood": "2024-11-23 23:24:46 +0000",
       "canopy_sapling": "2024-11-22 23:32:29 +0000",
+      "twilight_oak_log": "2024-11-23 23:58:29 +0000",
       "dark_log": "2024-11-19 17:52:14 +0000",
       "canopy_log": "2024-11-22 23:31:24 +0000"
     },
@@ -1218,35 +1221,11 @@
     },
     "done": true
   },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "kobold": "2024-11-22 23:10:15 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2024-11-23 00:57:52 +0000"
-    },
-    "done": true
-  },
   "ae2:main/ioport": {
     "criteria": {
       "certus": "2024-11-22 21:06:21 +0000"
     },
     "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "naga": "2024-11-23 01:02:06 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progression_end": {
-    "criteria": {
-      "plateau": "2024-11-22 23:12:30 +0000"
-    },
-    "done": false
   },
   "ae2:main/pattern_encoding_terminal": {
     "criteria": {
@@ -1266,9 +1245,116 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2024-11-22 23:10:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "plateau": "2024-11-22 23:12:30 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2024-11-23 00:57:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "naga": "2024-11-23 01:02:06 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_lich": {
     "criteria": {
-      "kill_naga": "2024-11-23 01:02:06 +0000"
+      "kill_naga": "2024-11-23 01:02:06 +0000",
+      "was_in_fight": "2024-11-23 21:38:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2024-11-23 15:53:16 +0000"
+    },
+    "done": true
+  },
+  "sullysmod:adventure/jade_grindset": {
+    "criteria": {
+      "rough_jade": "2024-11-23 15:53:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2024-11-23 15:53:38 +0000",
+      "azure": "2024-11-23 15:53:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2024-11-23 21:38:47 +0000",
+      "trophy_pedestal": "2024-11-23 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2024-11-23 23:17:46 +0000",
+      "previous_progression": "2024-11-23 23:03:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2024-11-23 22:48:20 +0000",
+      "kill_lich": "2024-11-23 21:38:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2024-11-23 22:48:20 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2024-11-23 22:48:20 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-11-23 21:30:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-11-23 21:38:47 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2024-11-23 22:48:20 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-11-23 19:05:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2024-11-23 23:17:46 +0000"
     },
     "done": false
   },
