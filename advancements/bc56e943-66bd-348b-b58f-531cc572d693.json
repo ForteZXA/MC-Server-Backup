@@ -1295,17 +1295,22 @@
     },
     "done": true
   },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2024-11-23 19:05:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2024-11-23 21:30:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
       "kill_lich": "2024-11-23 21:38:47 +0000",
       "trophy_pedestal": "2024-11-23 23:03:34 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "all_knights": "2024-11-23 23:17:46 +0000",
-      "previous_progression": "2024-11-23 23:03:34 +0000"
     },
     "done": true
   },
@@ -1316,6 +1321,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2024-11-23 21:38:47 +0000"
+    },
+    "done": false
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "stroganoff": "2024-11-23 22:48:20 +0000"
@@ -1324,19 +1335,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "meef_stroganoff": "2024-11-23 22:48:20 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2024-11-23 21:30:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_yeti": {
-    "criteria": {
-      "previous_progression": "2024-11-23 21:38:47 +0000"
+      "meef_stroganoff": "2024-11-23 22:48:20 +0000",
+      "experiment_115": "2024-11-24 00:01:53 +0000"
     },
     "done": false
   },
@@ -1346,17 +1346,43 @@
     },
     "done": true
   },
-  "mekanism:steel_ingot": {
+  "twilightforest:progress_knights": {
     "criteria": {
-      "ingot_steel": "2024-11-23 19:05:30 +0000"
+      "all_knights": "2024-11-23 23:17:46 +0000",
+      "previous_progression": "2024-11-23 23:03:34 +0000"
     },
     "done": true
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-11-23 23:17:46 +0000"
+      "previous_progression": "2024-11-23 23:17:46 +0000",
+      "was_in_fight": "2024-11-24 00:32:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2024-11-24 00:01:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-11-24 00:30:24 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "ur_ghast": "2024-11-24 00:32:55 +0000"
     },
     "done": false
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-11-24 01:06:40 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

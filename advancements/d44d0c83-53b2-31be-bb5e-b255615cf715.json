@@ -1757,6 +1757,7 @@
       "encased_towerwood": "2024-11-23 23:32:39 +0000",
       "twilight_oak_slab": "2024-11-23 00:30:30 +0000",
       "canopy_planks": "2024-11-22 23:25:48 +0000",
+      "towerwood": "2024-11-24 00:23:57 +0000",
       "canopy_sapling": "2024-11-23 22:45:08 +0000",
       "canopy_fence": "2024-11-23 00:18:57 +0000",
       "fallen_leaves": "2024-11-23 00:13:29 +0000",
@@ -1916,7 +1917,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2024-11-23 22:53:15 +0000"
+      "hydra": "2024-11-23 22:53:15 +0000",
+      "ur_ghast": "2024-11-24 00:32:55 +0000"
     },
     "done": false
   },
@@ -1924,6 +1926,18 @@
     "criteria": {
       "previous_progression": "2024-11-23 23:03:34 +0000",
       "was_in_fight": "2024-11-23 23:17:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2024-11-24 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2024-11-24 00:44:09 +0000"
     },
     "done": true
   },
@@ -1937,7 +1951,8 @@
   "twilightforest:twilight_dinner": {
     "criteria": {
       "meef_stroganoff": "2024-11-23 22:48:23 +0000",
-      "hydra_chop": "2024-11-23 22:53:42 +0000"
+      "hydra_chop": "2024-11-23 22:53:42 +0000",
+      "experiment_115": "2024-11-24 00:29:32 +0000"
     },
     "done": false
   },
@@ -1947,11 +1962,18 @@
     },
     "done": true
   },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-11-24 00:30:24 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2024-11-23 23:17:46 +0000"
+      "previous_progression": "2024-11-23 23:17:46 +0000",
+      "ghast": "2024-11-24 00:32:55 +0000"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
