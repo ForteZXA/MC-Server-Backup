@@ -1746,6 +1746,7 @@
       "twilight_oak_fence": "2024-11-23 00:32:19 +0000",
       "twilight_oak_planks": "2024-11-23 00:31:59 +0000",
       "twilight_oak_door": "2024-11-22 23:58:30 +0000",
+      "mossy_towerwood": "2024-11-24 23:14:39 +0000",
       "canopy_leaves": "2024-11-22 23:46:15 +0000",
       "canopy_sign": "2024-11-23 00:45:13 +0000",
       "canopy_chest": "2024-11-23 00:42:09 +0000",
@@ -1755,6 +1756,7 @@
       "mangrove_stairs": "2024-11-23 00:30:03 +0000",
       "mangrove_door": "2024-11-22 23:58:38 +0000",
       "encased_towerwood": "2024-11-23 23:32:39 +0000",
+      "mangrove_chest": "2024-11-24 23:13:29 +0000",
       "twilight_oak_slab": "2024-11-23 00:30:30 +0000",
       "canopy_planks": "2024-11-22 23:25:48 +0000",
       "towerwood": "2024-11-24 00:23:57 +0000",
@@ -1774,6 +1776,7 @@
       "mangrove_fence": "2024-11-22 23:48:50 +0000",
       "canopy_slab": "2024-11-22 23:44:25 +0000",
       "dark_stairs": "2024-11-22 23:43:21 +0000",
+      "cracked_towerwood": "2024-11-24 23:15:03 +0000",
       "canopy_banister": "2024-11-23 00:43:57 +0000"
     },
     "done": false
@@ -1915,32 +1918,6 @@
     },
     "done": false
   },
-  "twilightforest:progress_merge": {
-    "criteria": {
-      "hydra": "2024-11-23 22:53:15 +0000",
-      "ur_ghast": "2024-11-24 00:32:55 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:progress_knights": {
-    "criteria": {
-      "previous_progression": "2024-11-23 23:03:34 +0000",
-      "was_in_fight": "2024-11-23 23:17:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:experiment_115": {
-    "criteria": {
-      "eat_experiment_115": "2024-11-24 00:29:32 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:tier_4_rocket": {
-    "criteria": {
-      "tier_4_rocket": "2024-11-24 00:44:09 +0000"
-    },
-    "done": true
-  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2024-11-23 22:53:15 +0000",
@@ -1962,9 +1939,17 @@
     },
     "done": true
   },
-  "twilightforest:ghast_trap": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "activate_ghast_trap": "2024-11-24 00:30:24 +0000"
+      "hydra": "2024-11-23 22:53:15 +0000",
+      "ur_ghast": "2024-11-24 00:32:55 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2024-11-23 23:03:34 +0000",
+      "was_in_fight": "2024-11-23 23:17:46 +0000"
     },
     "done": true
   },
@@ -1972,6 +1957,30 @@
     "criteria": {
       "previous_progression": "2024-11-23 23:17:46 +0000",
       "ghast": "2024-11-24 00:32:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2024-11-24 00:29:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2024-11-24 00:30:24 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_4_rocket": {
+    "criteria": {
+      "tier_4_rocket": "2024-11-24 00:44:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:laser": {
+    "criteria": {
+      "laser": "2024-11-24 23:11:55 +0000"
     },
     "done": true
   },
