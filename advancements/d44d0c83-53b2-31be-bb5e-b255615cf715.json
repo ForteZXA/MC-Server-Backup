@@ -357,6 +357,7 @@
       "minecraft:piglin_brute": "2024-11-18 19:52:28 +0000",
       "minecraft:creeper": "2024-11-16 00:28:41 +0000",
       "sullysmod:bouldering_zombie": "2024-11-21 00:53:25 +0000",
+      "minecraft:phantom": "2024-11-25 03:18:45 +0000",
       "minecraft:witch": "2024-11-18 16:21:08 +0000",
       "minecraft:wither_skeleton": "2024-11-18 20:35:20 +0000",
       "minecraft:cave_spider": "2024-11-16 00:23:32 +0000",
@@ -557,6 +558,7 @@
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
       "shattered": "2024-11-21 01:04:51 +0000",
+      "phantom": "2024-11-25 03:18:45 +0000",
       "sculk_centipede": "2024-11-21 01:18:54 +0000",
       "warden": "2024-11-15 23:35:45 +0000",
       "sculk_snapper": "2024-11-21 01:19:27 +0000"
@@ -1983,6 +1985,18 @@
       "laser": "2024-11-24 23:11:55 +0000"
     },
     "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2024-11-25 01:02:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "giant": "2024-11-25 01:35:33 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
