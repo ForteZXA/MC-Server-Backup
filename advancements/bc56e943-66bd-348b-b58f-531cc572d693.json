@@ -1324,9 +1324,10 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2024-11-23 21:38:47 +0000"
+      "previous_progression": "2024-11-23 21:38:47 +0000",
+      "yeti": "2024-11-26 19:43:43 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_hydra": {
     "criteria": {
@@ -1375,6 +1376,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "snow_queen": "2024-11-26 20:10:43 +0000",
       "ur_ghast": "2024-11-24 00:32:55 +0000"
     },
     "done": false
@@ -1418,6 +1420,50 @@
   "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
       "killed_by": "2024-11-25 01:38:20 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2024-11-26 19:43:43 +0000",
+      "queen": "2024-11-26 20:10:43 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-11-27 00:06:54 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-11-27 00:07:14 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-11-27 01:12:51 +0000",
+      "1": "2024-11-27 01:12:39 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2024-11-27 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-11-26 23:58:11 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-11-27 01:41:33 +0000"
     },
     "done": true
   },
