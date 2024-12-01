@@ -265,6 +265,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2024-11-30 18:02:01 +0000",
       "minecraft:dark_forest": "2024-11-17 20:33:32 +0000",
       "minecraft:sparse_jungle": "2024-11-17 22:14:12 +0000",
       "minecraft:river": "2024-11-17 20:33:13 +0000",
@@ -287,6 +288,7 @@
       "old_growth_woodland": "2024-11-17 22:38:51 +0000",
       "volcano": "2024-11-17 20:38:53 +0000",
       "volcanic_plains": "2024-11-17 19:01:14 +0000",
+      "grassland": "2024-11-30 18:10:05 +0000",
       "rainforest": "2024-11-17 21:47:23 +0000"
     },
     "done": false
